@@ -7,7 +7,7 @@
 # Authsecret
 PRODUCT_PACKAGES += \
     android.hardware.authsecret@1.0.vendor
-
+    
 # AV media
 PRODUCT_PACKAGES += \
     libcodec2_hidl@1.0.vendor:32 \
