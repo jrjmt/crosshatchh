@@ -45,11 +45,6 @@ lib64/libsecureui_svcsock_system.so
 
 # product partition
 -product/app/com.qualcomm.qti.services.secureui/com.qualcomm.qti.services.secureui.apk
--product/app/MobileFeliCaClient/MobileFeliCaClient.apk;PRESIGNED
--product/app/MobileFeliCaMenuMainApp/MobileFeliCaMenuMainApp.apk;PRESIGNED
--product/app/MobileFeliCaSettingApp/MobileFeliCaSettingApp.apk;PRESIGNED
--product/app/MobileFeliCaWebPlugin/MobileFeliCaWebPlugin.apk;PRESIGNED
--product/app/MobileFeliCaWebPluginBoot/MobileFeliCaWebPluginBoot.apk;PRESIGNED
 -product/app/PixelCameraServicesBlueline/PixelCameraServicesBlueline.apk;PRESIGNED
 -product/app/SSRestartDetector/SSRestartDetector.apk;PRESIGNED
 product/etc/CarrierSettings/a1_at.pb
@@ -179,9 +174,6 @@ product/etc/cne/andsfCne.xml
 product/etc/cne/Nexus/ATT/ATT_profiles.xml
 product/etc/cne/Nexus/ROW/ROW_profiles.xml
 product/etc/cne/Nexus/VZW/VZW_profiles.xml
-product/etc/felica/common.cfg
-product/etc/felica/mfm.cfg
-product/etc/felica/mfs.cfg
 product/etc/firmware/music_detector.descriptor
 product/etc/firmware/music_detector.sound_model
 product/etc/permissions/com.android.omadm.service.xml
