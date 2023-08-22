@@ -40,6 +40,10 @@ PRODUCT_PACKAGES += \
     libcppbor_external \
     libcppcose_rkp
 
+# Camera Mod
+PRODUCT_PACKAGES += \
+    GcamMod
+    
 # Display
 PRODUCT_PACKAGES += \
     libdisplayconfig \
